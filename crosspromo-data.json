@@ -5,21 +5,24 @@
       "gameId": "police_01",
       "gameName": "Cop Duty Rush City patrol Game",
       "packageName": "com.cop.duty.rush.city.patrol.game.amazon",
+      "AmazonId": "B0GH7M6N1B",
       "storeUrl": "https://www.amazon.com/gp/product/B0GH7M6N1B",
       "videoUrl": "https://pub-fe77f070b2454d8bad1c5bd07532512f.r2.dev/police1.mp4",
       "category": "police",
       "isActive": true
     },
     {
-      "gameId": "car_01",
-      "gameName": "Car Simulator",
-      "packageName": "com.company.carsim",
-      "storeUrl": "https://play.google.com/store/apps/details?id=com.company.carsim",
+      "gameId": "bike_01",
+      "gameName": "AeroCloud Sprint Jumper World Game",
+      "packageName": "com.aero.cloud.sprint.jumper.jd.amazon",
+      "AmazonId": "B0GHSMK9HX",
+      "storeUrl": "https://www.amazon.com/gp/product/B0GHSMK9HX",
       "videoUrl": "https://pub-fe77f070b2454d8bad1c5bd07532512f.r2.dev/car1.mp4",
       "category": "car",
       "isActive": true
     }
   ]
 }
+
 
 
