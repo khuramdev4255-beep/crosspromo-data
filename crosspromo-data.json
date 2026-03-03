@@ -11,23 +11,15 @@
       "isActive": true
     },
     {
-      "gameId": "army_01",
-      "gameName": "Army Sniper",
-      "packageName": "com.company.armysniper",
-      "storeUrl": "https://play.google.com/store/apps/details?id=com.company.armysniper",
-      "videoUrl": "https://cdn.site.com/videos/army1.mp4",
-      "category": "army",
-      "isActive": true
-    },
-    {
       "gameId": "car_01",
       "gameName": "Car Simulator",
       "packageName": "com.company.carsim",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.company.carsim",
-      "videoUrl": "https://cdn.site.com/videos/car1.mp4",
+      "videoUrl": "https://pub-fe77f070b2454d8bad1c5bd07532512f.r2.dev/car1.mp4",
       "category": "car",
       "isActive": true
     }
   ]
 }
+
 
