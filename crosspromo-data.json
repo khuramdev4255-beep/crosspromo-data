@@ -1,0 +1,32 @@
+{
+  "lastUpdated": "2026-02-28",
+  "games": [
+    {
+      "gameId": "police_01",
+      "gameName": "Police Chase 3D",
+      "packageName": "com.company.policechase",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.company.policechase",
+      "videoUrl": "https://cdn.site.com/videos/police1.mp4",
+      "category": "police",
+      "isActive": true
+    },
+    {
+      "gameId": "army_01",
+      "gameName": "Army Sniper",
+      "packageName": "com.company.armysniper",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.company.armysniper",
+      "videoUrl": "https://cdn.site.com/videos/army1.mp4",
+      "category": "army",
+      "isActive": true
+    },
+    {
+      "gameId": "car_01",
+      "gameName": "Car Simulator",
+      "packageName": "com.company.carsim",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.company.carsim",
+      "videoUrl": "https://cdn.site.com/videos/car1.mp4",
+      "category": "car",
+      "isActive": true
+    }
+  ]
+}
