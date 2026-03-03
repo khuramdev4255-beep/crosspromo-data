@@ -3,10 +3,10 @@
   "games": [
     {
       "gameId": "police_01",
-      "gameName": "Police Chase 3D",
-      "packageName": "com.company.policechase",
-      "storeUrl": "https://play.google.com/store/apps/details?id=com.company.policechase",
-      "videoUrl": "https://cdn.site.com/videos/police1.mp4",
+      "gameName": "Cop Duty Rush City patrol Game",
+      "packageName": "com.cop.duty.rush.city.patrol.game.amazon",
+      "storeUrl": "https://www.amazon.com/gp/product/B0GH7M6N1B",
+      "videoUrl": "https://pub-fe77f070b2454d8bad1c5bd07532512f.r2.dev/police1.mp4",
       "category": "police",
       "isActive": true
     },
@@ -30,3 +30,4 @@
     }
   ]
 }
+
