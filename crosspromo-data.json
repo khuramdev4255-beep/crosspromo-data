@@ -8,7 +8,7 @@
       "packageName": "com.cop.duty.rush.city.patrol.game.amazon",
       "amazonAppId": "B0GH7M6N1B",
       "storeUrl": "https://www.amazon.com/gp/product/B0GH7M6N1B",
-      "videoUrl": "https://pub-fe77f070b2454d8bad1c5bd07532512f.r2.dev/car1.mp4",
+      "videoUrl": "https://pub-fe77f070b2454d8bad1c5bd07532512f.r2.dev/Police1.mp4",
       "iconUrl": "",
       "priority": 2,
       "isActive": false
@@ -26,6 +26,7 @@
     }
   ]
 }
+
 
 
 
