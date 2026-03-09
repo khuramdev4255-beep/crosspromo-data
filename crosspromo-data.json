@@ -19,13 +19,14 @@
       "packageName": "com.aero.cloud.sprint.jumper.jd.amazon",
       "amazonAppId": "B0GHSMK9HX",
       "storeUrl": "https://www.amazon.com/gp/product/B0GHSMK9HX",
-      "videoUrl": "https://pub-fe77f070b2454d8bad1c5bd07532512f.r2.dev/car1.mp4",
+      "videoUrl": "https://pub-fe77f070b2454d8bad1c5bd07532512f.r2.dev/Car1.mp4",
       "iconUrl": "",
       "priority": 1,
       "isActive": true
     }
   ]
 }
+
 
 
 
